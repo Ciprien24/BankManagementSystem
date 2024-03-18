@@ -1,0 +1,3 @@
+/Users/test1/Desktop/Projects/BankManagementSystem/BankManagementSystem/cmake-build-debug/CMakeFiles/BankManagementSystem.dir
+/Users/test1/Desktop/Projects/BankManagementSystem/BankManagementSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/test1/Desktop/Projects/BankManagementSystem/BankManagementSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
